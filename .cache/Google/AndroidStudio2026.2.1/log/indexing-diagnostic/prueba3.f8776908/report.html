@@ -1,0 +1,775 @@
+<html>
+  <head>
+    <title>Indexing diagnostics of 'Prueba 3'</title>
+    <style>body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 80%;
+}
+
+table.activity-table {
+  width: 100%;
+}
+
+table.metrics-table {
+  width: auto;
+}
+
+.red-text {
+  color: red;
+}
+
+table.narrow-activity-table {
+  width: 80%;
+}
+
+table.two-columns td {
+  width: 50%;
+}
+
+th, td {
+  padding: 3px;
+}
+
+th {
+  background: lightgrey;
+}
+
+td {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.stats-content {
+  margin-left: 20%;
+}
+
+.stats-activity-content {
+  margin-left: 20%;
+  margin-right: 5%;
+}
+
+.aggregate-report-content {
+  margin-left: 10%;
+}
+
+.aggregate-activity-report-content {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.aggregate-header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 0;
+}
+
+.table-with-margin{
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.navigation-bar {
+  width: 15%;
+  background-color: lightgrey;
+  position: fixed;
+  height: 100%;
+}
+
+div.navigation-bar ul {
+  list-style-type: none;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+div.navigation-bar ul li a, label {
+  display: block;
+  color: #000;
+  padding: 8px 20px;
+  text-decoration: none;
+}
+
+label input {
+  margin-left: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+div.navigation-bar ul li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.minor-data {}
+
+.invisible {
+  display: none;
+}
+
+.jetbrains-logo {
+  width: 50%;
+  bottom: 5%;
+  position: absolute;
+  left: 20%;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.linkable-table-row:hover {
+  background: #f2f3ff;
+  outline: none;
+  cursor: pointer;
+}
+
+.scanning-table-row {
+  background-color: aliceblue;
+}
+
+.not-applicable-data{
+  color: darkgrey;
+}</style>
+    <script>document.addEventListener("DOMContentLoaded", () => {
+  const rows = document.getElementsByClassName("linkable-table-row")
+  for (const row of rows) {
+    const href = row.getAttribute("href")
+    row.addEventListener("click", () => {
+      window.open(href, "_blank");
+    });
+  }
+});</script>
+  </head>
+  <body>
+    <div class="aggregate-activity-report-content">
+      <h1 class="aggregate-header">Prueba 3</h1>
+      <div>All durations are wall time; total and content loading time include pauses
+        <table class="centered-text table-with-margin activity-table"><caption style="caption-side: bottom; text-align: right; font-size: 14px">Click for details</caption>
+          <thead>
+            <tr>
+              <th colspan="14">History of scannings and indexings</th>
+            </tr>
+            <tr>
+              <th colspan="7">Time</th>
+              <th colspan="5">Files</th>
+              <th rowspan="2">Scanning ID(s)</th>
+              <th rowspan="2">Scanning Type</th>
+            </tr>
+            <tr>
+              <th>Started</th>
+              <th>Started dumb mode</th>
+              <th>Finished</th>
+              <th>Total&nbsp;time</th>
+              <th>Time spent on pause</th>
+              <th>Full dumb mode time</th>
+              <th>Dumb mode time w/o pauses</th>
+              <th>Scanned</th>
+              <th>Shared indexes (w/o content loading)</th>
+              <th>Scheduled for indexing</th>
+              <th>Shared indexes (content loaded)</th>
+              <th>Total indexed (shared indexes included)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="linkable-table-row" href="diagnostic-2026-10-09-15-12-46.547.html">
+              <td>15:12:45 09 oct</td>
+              <td>15:12:45 09 oct</td>
+              <td>15:12:46 09 oct</td>
+              <td>296 ms</td>
+              <td>0</td>
+              <td>296 ms</td>
+              <td>296 ms</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>0</td>
+              <td>5</td>
+              <td>0</td>
+              <td class="not-applicable-data">N/A</td>
+            </tr>
+            <tr class="linkable-table-row scanning-table-row" href="diagnostic-2026-10-09-15-12-45.543.html">
+              <td>15:12:44 09 oct</td>
+              <td class="not-applicable-data">Didn't start</td>
+              <td>15:12:45 09 oct</td>
+              <td>963 ms</td>
+              <td>2 ms</td>
+              <td>0</td>
+              <td>0</td>
+              <td>7</td>
+              <td>0</td>
+              <td>5</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>0</td>
+              <td>partial on project open</td>
+            </tr>
+            <tr class="linkable-table-row" href="diagnostic-2026-10-07-21-13-53.065.html">
+              <td>21:13:38 07 oct</td>
+              <td>21:13:38 07 oct</td>
+              <td>21:13:53 07 oct</td>
+              <td>14 s 149 ms</td>
+              <td>0</td>
+              <td>14 s 149 ms</td>
+              <td>14 s 149 ms</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>0</td>
+              <td>30117</td>
+              <td>4</td>
+              <td class="not-applicable-data">N/A</td>
+            </tr>
+            <tr class="linkable-table-row scanning-table-row" href="diagnostic-2026-10-07-21-13-38.908.html">
+              <td>21:13:34 07 oct</td>
+              <td>21:13:35 07 oct</td>
+              <td>21:13:38 07 oct</td>
+              <td>3 s 915 ms</td>
+              <td>&lt; 1 ms</td>
+              <td>3 s 745 ms</td>
+              <td>3 s 745 ms</td>
+              <td>42616</td>
+              <td>0</td>
+              <td>30117</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>4</td>
+              <td>partial</td>
+            </tr>
+            <tr class="linkable-table-row" href="diagnostic-2026-10-07-21-13-28.466.html">
+              <td>21:13:28 07 oct</td>
+              <td>21:13:28 07 oct</td>
+              <td>21:13:28 07 oct</td>
+              <td>97 ms</td>
+              <td>0</td>
+              <td>97 ms</td>
+              <td>97 ms</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>0</td>
+              <td>27</td>
+              <td>3</td>
+              <td class="not-applicable-data">N/A</td>
+            </tr>
+            <tr class="linkable-table-row scanning-table-row" href="diagnostic-2026-10-07-21-13-28.332.html">
+              <td>21:13:28 07 oct</td>
+              <td>21:13:28 07 oct</td>
+              <td>21:13:28 07 oct</td>
+              <td>95 ms</td>
+              <td>10 ms</td>
+              <td>27 ms</td>
+              <td>27 ms</td>
+              <td>38</td>
+              <td>0</td>
+              <td>27</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>3</td>
+              <td>partial</td>
+            </tr>
+            <tr class="linkable-table-row scanning-table-row" href="diagnostic-2026-10-07-21-13-20.049.html">
+              <td>21:13:20 07 oct</td>
+              <td class="not-applicable-data">Didn't start</td>
+              <td>21:13:20 07 oct</td>
+              <td>10 ms</td>
+              <td>&lt; 1 ms</td>
+              <td>0</td>
+              <td>0</td>
+              <td>189</td>
+              <td>0</td>
+              <td>0</td>
+              <td class="not-applicable-data">N/A</td>
+              <td class="not-applicable-data">N/A</td>
+              <td>2</td>
+              <td>full on project open</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <table class="table-with-margin activity-table metrics-table">
+          <thead>
+            <tr>
+              <th colspan="2">Metrics</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>indexingTimeWithoutPauses</td>
+              <td>14 s 542 ms</td>
+            </tr>
+            <tr>
+              <td>scanningTimeWithoutPauses</td>
+              <td>4 s 971 ms</td>
+            </tr>
+            <tr>
+              <td>pausedTimeInIndexingOrScanning</td>
+              <td>12 ms</td>
+            </tr>
+            <tr>
+              <td>dumbModeTimeWithPauses</td>
+              <td>18 s 314 ms</td>
+            </tr>
+            <tr>
+              <td>numberOfScannedFiles</td>
+              <td>42850</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles</td>
+              <td>30149</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFilesWritingIndexValue</td>
+              <td>30149</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFilesWithNothingToWrite</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>numberOfFilesIndexedByExtensions</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>numberOfFilesIndexedWithoutExtensions</td>
+              <td>30149</td>
+            </tr>
+            <tr>
+              <td>numberOfRunsOfScannning</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>numberOfRunsOfIndexing</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#XML</td>
+              <td>11084</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#Kotlin</td>
+              <td>15</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#Properties</td>
+              <td>24</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#JAVA</td>
+              <td>27686</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#Shell Script</td>
+              <td>1857</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#TOML</td>
+              <td>368</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#textmate</td>
+              <td>2209</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#R8 Config File</td>
+              <td>367</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#GitIgnore file</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#CLASS</td>
+              <td>9929</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#HTML</td>
+              <td>954</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#Markdown</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#ObjectiveC</td>
+              <td>16696</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#PLAIN_TEXT</td>
+              <td>89297</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#Manifest</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>processingSpeedAvg#CSV/TSV</td>
+              <td>1817</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#XML</td>
+              <td>36</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#Kotlin</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#Properties</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#JAVA</td>
+              <td>67</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#Shell Script</td>
+              <td>357</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#TOML</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#textmate</td>
+              <td>425</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#R8 Config File</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#GitIgnore file</td>
+              <td>7</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#CLASS</td>
+              <td>1248</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#HTML</td>
+              <td>120</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#Markdown</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#ObjectiveC</td>
+              <td>2100</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#PLAIN_TEXT</td>
+              <td>11232</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#Manifest</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>processingSpeedWorst#CSV/TSV</td>
+              <td>228</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#XML</td>
+              <td>10905</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#kotlin</td>
+              <td>15</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#Properties</td>
+              <td>24</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#JAVA</td>
+              <td>27686</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#Shell Script</td>
+              <td>1857</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#TOML</td>
+              <td>368</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#textmate</td>
+              <td>2209</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#SHRINKER_CONFIG</td>
+              <td>367</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#GitIgnore</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#IgnoreLang</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#HTML</td>
+              <td>954</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#Markdown</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#ObjectiveC</td>
+              <td>16696</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#TEXT</td>
+              <td>86004</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageAvg#Manifest</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#XML</td>
+              <td>36</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#kotlin</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#Properties</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#JAVA</td>
+              <td>67</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#Shell Script</td>
+              <td>357</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#TOML</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#textmate</td>
+              <td>425</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#SHRINKER_CONFIG</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#GitIgnore</td>
+              <td>7</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#IgnoreLang</td>
+              <td>7</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#HTML</td>
+              <td>120</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#Markdown</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#ObjectiveC</td>
+              <td>2100</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#TEXT</td>
+              <td>10817</td>
+            </tr>
+            <tr>
+              <td>processingSpeedOfBaseLanguageWorst#Manifest</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>processingTime#XML</td>
+              <td>4 s 728 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#Kotlin</td>
+              <td>165 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#Properties</td>
+              <td>142 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#JAVA</td>
+              <td>8 s 24 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#Shell Script</td>
+              <td>4 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#TOML</td>
+              <td>2 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#textmate</td>
+              <td>1 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#R8 Config File</td>
+              <td>1 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#GitIgnore file</td>
+              <td>9 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#CLASS</td>
+              <td>1 s 334 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#HTML</td>
+              <td>85 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#Markdown</td>
+              <td>19 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#ObjectiveC</td>
+              <td>14 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#PLAIN_TEXT</td>
+              <td>5 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#Manifest</td>
+              <td>2 ms</td>
+            </tr>
+            <tr>
+              <td>processingTime#CSV/TSV</td>
+              <td>0 ms</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#XML</td>
+              <td>7168</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#Kotlin</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#Properties</td>
+              <td>6</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#JAVA</td>
+              <td>16407</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#Shell Script</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#TOML</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#textmate</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#R8 Config File</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#GitIgnore file</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#CLASS</td>
+              <td>6440</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#HTML</td>
+              <td>90</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#Markdown</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#ObjectiveC</td>
+              <td>8</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#PLAIN_TEXT</td>
+              <td>13</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#Manifest</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>numberOfIndexedFiles#CSV/TSV</td>
+              <td>2</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <table class="table-with-margin activity-table">
+          <thead>
+            <tr>
+              <th colspan="5">Scanning to push properties of changed files</th>
+            </tr>
+            <tr>
+              <th>Time</th>
+              <th>Reason</th>
+              <th>Full duration</th>
+              <th>Is cancelled</th>
+              <th>Number</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>21:22:06 07 oct</td>
+              <td>Push on VFS changes</td>
+              <td>&lt; 1 ms</td>
+              <td>fully finished</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>21:13:59 07 oct</td>
+              <td>Push on VFS changes</td>
+              <td>1 ms</td>
+              <td>fully finished</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>21:13:28 07 oct</td>
+              <td>Push on VFS changes</td>
+              <td>&lt; 1 ms</td>
+              <td>fully finished</td>
+              <td>1</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>

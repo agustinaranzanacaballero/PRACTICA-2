@@ -1,0 +1,1377 @@
+Xsession: X session started for alumno at vie 16 oct 2026 15:05:21 CEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alumno/.Xauthority
+localuser:alumno being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=alumno
+dbus-update-activation-environment: setting no_proxy=localhost;127.0.0.1;localaddress;iesmajuelo.es
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/alumno
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting https_proxy=https://192.168.8.200:3128/
+dbus-update-activation-environment: setting LOGNAME=alumno
+dbus-update-activation-environment: setting http_proxy=http://192.168.8.200:3128/
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting ftp_proxy=ftp://192.168.8.200:3128/
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/alumno/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/alumno
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/alumno
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share/:/usr/share/
+x-session-manager[1178]: WARNING: Unable to find provider '' of required component 'dock'
+discover_other_daemon: 1GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Advertencia del gestor de ventanas: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+
+** (mate-settings-daemon:1245): WARNING **: 15:05:22.199: Could not open RFKILL control device, please verify your installation
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+[ 16/10/26 15:05:22.288 sanitize_options ERROR ] Backend not specified. You must choose one explicitly. Valid ones are: 
+[ 16/10/26 15:05:22.288 sanitize_options ERROR ] 	dummy
+[ 16/10/26 15:05:22.288 sanitize_options ERROR ] 	xrender
+[ 16/10/26 15:05:22.288 sanitize_options ERROR ] 	egl
+[ 16/10/26 15:05:22.288 sanitize_options ERROR ] 	glx
+[ 16/10/26 15:05:22.288 session_init FATAL ERROR ] Failed to get configuration, usually mean you have specified invalid options.
+[ 16/10/26 15:05:22.288 main FATAL ERROR ] Failed to create new session.
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+
+(caja:1293): Gtk-WARNING **: 15:05:22.298: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+(mate-power-manager:1302): PowerManager-WARNING **: 15:05:22.381: Failed to get session for pid 1302: The name org.freedesktop.ConsoleKit was not provided by any .service files
+
+(mate-power-manager:1302): PowerManager-WARNING **: 15:05:22.460: could not map keysym 1008ffa8 to keycode
+
+(mate-volume-control-status-icon:1296): Gtk-WARNING **: 15:05:22.588: Negative content width -5 (allocation 1, extents 3x3) while allocating gadget (node image, owner GtkImage)
+
+(mate-volume-control-status-icon:1296): Gtk-WARNING **: 15:05:22.588: Negative content height -5 (allocation 1, extents 3x3) while allocating gadget (node image, owner GtkImage)
+[1803:1836:1016/151503.831220:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[1803:1836:1016/151504.056815:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1803:1836:1016/151526.676298:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1803:1803:1016/151554.379917:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1836:1016/151612.204561:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1803:1803:1016/151615.783578:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/151615.783595:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/151615.841500:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/151615.841744:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/151615.906753:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/151616.425489:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1836:1016/151745.927749:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1803:1836:1016/152144.525840:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1803:1836:1016/152902.274228:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1803:1836:1016/153033.003422:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/153033.005312:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1803:1803:1016/153411.231090:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/153411.231134:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/153411.283703:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/153411.283874:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/153411.851082:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/153420.811514:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[1803:1803:1016/153420.811760:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[1803:1836:1016/154555.998596:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/154555.999710:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1803:1836:1016/160124.009661:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/160124.010721:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1803:1803:1016/161105.098228:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/161105.098246:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/161105.151727:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/161105.151935:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/161105.211559:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/161105.946213:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+
+** (caja:1293): CRITICAL **: 16:11:24.242: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 16:11:24.242: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 16:11:24.242: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 16:11:26.885: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 16:11:26.885: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 16:11:26.885: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 16:11:28.456: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 16:11:28.457: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 16:11:28.457: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 16:11:31.769: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 16:11:31.769: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 16:11:31.769: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[90m[main 2026-10-16T14:12:08.867Z][0m [node-compile-cache] main: packaged cache inactive (status: disabled, configured: /usr/share/code/resources/app/node-compile-cache/main, active: none)
+[90m[main 2026-10-16T14:12:08.930Z][0m StorageMainService: creating application shared storage
+[91m[main 2026-10-16T14:12:08.936Z][0m Invalid path provided: /home/alumno/Documentos/Jorge Jaime Sena/WEB/Proyecto 3/blog-preview-card-main-3, ENOENT: no such file or directory, stat '/home/alumno/Documentos/Jorge Jaime Sena/WEB/Proyecto 3/blog-preview-card-main-3'
+[90m[main 2026-10-16T14:12:09.099Z][0m [shared storage] Creating shared storage database at '/home/alumno/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+[90m[main 2026-10-16T14:12:09.099Z][0m [shared storage] Initializing fallback application storage (path: /home/alumno/.config/Code/User/globalStorage/state.vscdb)
+[90m[main 2026-10-16T14:12:09.147Z][0m [shared storage] Fallback application storage initialized with 127 items
+[90m[main 2026-10-16T14:12:09.674Z][0m update#setState idle
+[3157:1016/161209.701819:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161209.703145:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[90m[main 2026-10-16T14:12:09.714Z][0m AgentHostProcessManager: agent host started
+[3157:1016/161209.913631:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161209.915016:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+(node:3115) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[3157:1016/161210.474226:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161210.475720:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[91m[main 2026-10-16T14:12:10.476Z][0m #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?u=none - error undefined net::ERR_PROXY_CONNECTION_FAILED
+[91m[main 2026-10-16T14:12:10.476Z][0m update#isLatestVersion(): failed to check for updates
+[91m[main 2026-10-16T14:12:10.477Z][0m Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[3157:1016/161210.521988:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161210.523316:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161210.566721:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161210.568005:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[91m[main 2026-10-16T14:12:10.933Z][0m [AgentHost:stderr] (node:3225) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+Unknown channel: agentHostClientByokLm
+[3157:1016/161211.587743:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161211.589126:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.145981:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.147364:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.395866:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.397766:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.400278:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.401091:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.402926:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.403068:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.404019:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.405535:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.405829:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.406969:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.412005:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.413805:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.415189:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161212.474423:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3800003 (Open Folde)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+[3157:1016/161213.360440:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161213.361730:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161214.818018:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161214.819414:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161216.019457:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161216.020777:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.400098:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.401692:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.401806:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.403621:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.403722:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.405415:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.405496:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.407093:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.407196:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.408860:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.408962:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.410045:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.411561:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.411701:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.413470:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.413658:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.414632:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.416064:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.416227:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.417394:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161220.418241:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161226.080550:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161226.081878:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161226.708411:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161226.709810:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161228.416240:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161228.417500:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[90m[main 2026-10-16T14:12:28.616Z][0m Extension host with pid 3285 exited with code: 0, signal: unknown.
+[3157:1016/161228.939455:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161228.940763:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161229.221111:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161229.222483:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161229.611503:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161229.612742:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161230.133315:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161230.134728:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.755268:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.757025:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.759049:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.760443:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.760563:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.761864:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.762772:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.779093:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.780056:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.781070:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161231.782119:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[91m[main 2026-10-16T14:12:37.960Z][0m #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?u=none - error undefined net::ERR_TIMED_OUT
+[91m[main 2026-10-16T14:12:37.960Z][0m update#isLatestVersion(): failed to check for updates
+[91m[main 2026-10-16T14:12:37.960Z][0m Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[90m[main 2026-10-16T14:12:39.676Z][0m update#setState checking for updates
+[3157:1016/161239.685777:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.688318:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[91m[main 2026-10-16T14:12:39.689Z][0m #3: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?bg=true&u=none - error undefined net::ERR_PROXY_CONNECTION_FAILED
+[91m[main 2026-10-16T14:12:39.690Z][0m Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[90m[main 2026-10-16T14:12:39.690Z][0m update#setState idle
+[3157:1016/161239.762102:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.763263:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.766585:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.776309:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.779222:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.781649:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.788135:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.789128:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.789622:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.792982:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.793294:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.794362:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.794612:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.795537:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161239.796530:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161247.776436:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161247.778213:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161247.778341:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161247.779624:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161247.780957:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161247.781224:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161323.517860:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161323.519378:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161328.822898:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161328.824097:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3115:1016/161332.192325:ERROR:content/browser/browser_main_loop.cc:276] GLib-GObject: ../../../gobject/gsignal.c:2699: instance '0xbe4017b2200' has no handler with id '2679'
+[3157:1016/161332.322981:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161334.789851:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161334.791211:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161349.896738:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161349.898263:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161353.074324:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161353.075816:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161409.580137:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161409.581008:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161409.582053:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161409.582821:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161412.151068:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161412.152354:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161514.284264:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161514.285183:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161514.286207:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161514.287103:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161516.708013:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161517.364242:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161517.365604:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161616.075316:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161616.077629:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161619.575506:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161619.577828:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/161653.005283:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/161653.007278:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/161726.561018:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161726.563396:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161729.224457:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161729.226771:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161729.836515:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161729.838819:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161816.015396:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161816.016678:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161818.948794:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161924.461405:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/161924.462609:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162014.000888:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162014.003233:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162120.202993:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162120.205292:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162220.066523:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162220.068805:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162223.254231:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162229.234974:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162229.237296:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162229.846067:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162315.995040:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162315.996286:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162318.753278:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162318.755634:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162421.437874:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162421.439107:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162424.063522:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162424.064766:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162600.545822:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162600.548154:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162603.485526:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162712.346370:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162712.347692:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162729.245001:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162729.247298:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162737.855426:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162737.857005:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162809.788642:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162809.790945:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/162925.282504:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163014.832165:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163014.834526:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163017.347965:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163017.350425:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163102.865608:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163102.867924:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163207.170707:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163207.171933:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163210.333902:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163210.335203:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/163217.004279:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/163217.006193:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/163229.255400:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163229.257707:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163237.861726:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163237.863657:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163311.078577:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163311.079822:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163353.359436:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163353.360696:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163356.484574:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163356.485854:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163516.472315:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163516.473508:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163630.575315:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163630.577569:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.034676:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.371346:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.373195:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.375500:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.376350:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.376448:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.378584:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.378722:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.378798:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.379846:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.381255:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.381455:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.383382:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.383577:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.383682:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.384737:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.386107:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.386247:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.387747:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.387892:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.388832:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.390189:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.390308:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.391637:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.391766:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.577106:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.581257:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.584932:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.586627:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.587136:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.587760:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.589241:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.589476:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.590352:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.591317:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.592249:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.593185:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.594183:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.595119:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.596111:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.597014:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163724.598116:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163729.261941:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163729.263173:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163735.106438:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163737.870146:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163740.404327:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163740.406265:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163807.651425:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163807.652927:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163810.124238:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163810.126003:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163813.903259:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163813.904571:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163827.163196:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163827.164835:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163905.026096:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163905.027558:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163911.949584:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163911.950932:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163921.525104:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163921.526381:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163954.324520:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163954.326121:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/163957.347497:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164010.039909:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164010.041262:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164019.757521:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164019.758908:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164021.813867:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164021.815339:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164055.875932:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164055.878482:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164138.117757:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164138.119031:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3115:1016/164141.873206:ERROR:ui/gfx/x/atom_cache.cc:234] Add application/vnd.portal.filetransfer to kAtomsToCache
+[3115:1016/164141.873441:ERROR:ui/gfx/x/atom_cache.cc:234] Add application/vnd.portal.files to kAtomsToCache
+[3157:1016/164213.164727:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164213.166027:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164216.320987:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164216.322281:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164229.270223:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164229.272512:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1803:1016/164242.159124:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/164242.159165:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/164242.217353:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/164242.217515:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1803:1803:1016/164243.522555:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[3157:1016/164315.833135:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164317.316654:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164317.317882:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164327.212445:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164327.214903:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164402.604369:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164402.606832:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164405.197252:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164405.199629:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164529.970608:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164529.971897:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164530.316167:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164530.317554:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164553.478107:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164553.479359:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164713.340060:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164713.342448:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164716.642942:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164716.645255:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164729.280429:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164729.282795:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/164740.010898:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/164740.012869:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/164745.413902:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164745.415054:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164753.889559:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164753.891930:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164814.123779:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164814.126028:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164816.868724:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164816.871075:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164817.566788:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164817.567966:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164834.379932:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164834.381095:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.507583:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.812124:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.813023:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.814395:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.814492:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.815548:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.817039:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.817226:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.818152:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.819545:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.819677:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.820778:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.822138:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.822378:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.823271:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.824125:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.825010:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.825866:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.826675:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.837492:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.838417:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.839685:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.856372:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.858338:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.859288:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.859743:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.861009:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.861122:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.862095:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.862978:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.863801:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164836.864580:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.639442:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.640755:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.943913:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.944792:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.945766:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.946626:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.947686:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.949076:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.950483:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.950553:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.951854:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164837.952700:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.897159:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.898528:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.899767:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.901021:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.902259:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.903471:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.904665:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.906053:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.907670:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.908656:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.909523:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.910373:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.911225:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164839.912114:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.510942:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.512294:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.513184:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.514403:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.820802:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.830973:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164844.833132:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164845.955255:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164845.956564:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164852.831252:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164852.833591:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164913.366353:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/164913.367622:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165002.550371:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165002.551262:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165002.552476:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165022.907156:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165022.908419:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165025.362551:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165025.364842:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165118.023517:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165118.025912:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165120.496836:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165120.498145:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165218.885255:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165253.898866:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165253.901270:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165311.076378:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165311.077565:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165314.900212:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165314.901524:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165317.306142:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165317.308511:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165412.145250:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165412.147689:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165504.469149:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165504.470425:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165509.137424:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165509.138713:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165520.289396:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165520.291772:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165522.908898:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165522.911247:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165527.119507:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165527.120759:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165547.294811:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165547.296097:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165614.186286:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165614.187787:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165617.387108:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165617.389355:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165708.012080:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165708.014392:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165710.626126:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165710.628398:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3115:1016/165719.161670:ERROR:content/browser/browser_main_loop.cc:276] GLib-GObject: ../../../gobject/gsignal.c:2699: instance '0xbe4017b2200' has no handler with id '2917'
+[3157:1016/165719.316959:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165719.317797:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165719.319012:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165719.330428:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165719.331821:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165737.296348:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165737.298788:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165800.269067:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165811.643413:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165811.644632:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165849.407201:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165849.408538:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3115:1016/165853.518421:ERROR:content/browser/browser_main_loop.cc:276] GLib-GObject: ../../../gobject/gsignal.c:2699: instance '0xbe4017b2200' has no handler with id '3463'
+[3157:1016/165853.637075:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165856.169903:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165856.171168:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165900.611730:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165903.799298:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165903.800767:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165906.166952:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165911.931014:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165914.174389:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165914.175908:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165949.544482:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165949.545766:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165952.767488:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/165952.769981:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170118.524441:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170118.526928:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170121.918313:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170219.465808:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170219.468265:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170222.917076:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170222.919556:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170301.916887:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170301.919320:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/170302.998768:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/170303.000611:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/170313.586677:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170313.588150:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170321.190973:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170321.192408:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170324.252354:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170324.253885:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170350.754800:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170350.755685:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170350.756715:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170354.723186:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170354.724439:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170412.231639:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170412.232974:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170414.992346:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170414.994764:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170521.853900:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170533.261450:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170533.262978:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170618.833639:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170618.834998:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170621.952256:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170621.954667:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170714.196270:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170714.198767:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170716.762796:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170716.765217:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170817.226006:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170817.228445:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170819.903682:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170819.906069:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170913.034266:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/170913.036601:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171018.279427:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171107.198551:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171107.199741:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171118.917052:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171129.887984:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171216.746331:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171216.747872:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171228.149019:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171228.151482:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171229.265725:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[90m[main 2026-10-16T15:12:39.682Z][0m update#setState checking for updates
+[91m[main 2026-10-16T15:12:47.695Z][0m #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?bg=true&u=none - error undefined net::ERR_TIMED_OUT
+[91m[main 2026-10-16T15:12:47.697Z][0m Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[90m[main 2026-10-16T15:12:47.700Z][0m update#setState idle
+[3157:1016/171253.332200:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171253.334450:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171309.930955:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171309.933252:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171335.231258:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171335.233600:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171424.516477:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171424.518900:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171427.735911:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171427.738139:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171517.375798:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171517.377028:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171520.790212:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171520.792441:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171531.290975:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171531.292167:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171534.033043:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171549.381410:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171549.382601:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171614.759465:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171614.761832:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171618.064541:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171618.066852:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171712.731959:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171712.734307:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171715.211485:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171715.213825:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171753.341998:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171821.934416:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/171830.004331:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/171830.006127:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/171833.003375:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171917.950798:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171917.953140:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/171920.592212:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172016.775017:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172016.777263:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172019.432722:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172019.435063:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172124.287662:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172135.163268:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172135.164502:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172212.842033:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172212.843326:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172215.812450:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172215.813969:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/172218.966384:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/172218.968326:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/172301.355026:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172301.357287:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172317.952689:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172317.955025:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172320.546524:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172320.548754:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172323.434775:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172323.437037:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172416.974034:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172416.976406:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172420.426475:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172420.428748:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172518.988742:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172518.991117:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172521.405239:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172611.192621:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172611.194880:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172613.661997:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172613.664267:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172720.952549:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172720.953792:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172758.411489:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172758.413952:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172800.928805:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172800.930232:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172817.962089:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172817.964416:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172917.598083:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172917.599358:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172920.838887:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172920.841187:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/172935.767773:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173014.176130:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173014.177386:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173017.431355:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173017.433682:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173118.088205:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173118.090562:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173121.658736:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173121.661065:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173127.111893:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173127.113170:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173153.572083:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173153.573565:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173155.025719:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173155.026958:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173222.888031:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173222.890482:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173309.375233:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173309.377652:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173317.971463:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173317.973769:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173320.079215:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173320.081608:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173411.673359:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173411.674608:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173420.434494:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173420.436880:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173423.116728:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173423.119098:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173519.376646:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173519.378941:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173522.399842:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173522.401040:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173618.330800:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173720.196095:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173731.397886:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/173745.000632:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/173745.001721:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/173809.385758:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173809.388096:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173812.067516:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173812.068920:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173814.532612:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173814.534895:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173817.980359:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173817.982646:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173918.361171:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/173918.362425:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174007.256831:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174007.259121:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174010.825515:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174010.827875:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174115.070707:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174115.073034:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174215.192474:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174257.114416:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174257.116738:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174259.671256:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174259.672738:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174309.395744:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174309.398004:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174317.989571:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174317.991880:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174412.502970:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174412.504219:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174415.514007:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174415.515319:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174510.690239:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174510.691566:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174514.025643:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174514.026816:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174605.463642:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174605.465938:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174607.918143:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174607.919443:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174705.035611:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174705.037953:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174725.137255:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174725.139017:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/174742.613412:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/174742.615374:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/174809.402868:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174809.404308:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174813.131645:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174813.133908:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174816.199767:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174816.200963:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174857.629001:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174857.630217:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174900.078234:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174900.079548:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174956.344295:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/174956.346645:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/175105.230862:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/175105.231828:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/175117.733863:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175117.736192:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175121.165522:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175121.167817:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175214.887471:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175214.888762:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175217.843559:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175217.845980:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175309.411132:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175309.413470:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175316.634749:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175316.637002:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175319.883633:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175319.885992:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175326.017144:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175417.466804:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175417.469196:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175421.010314:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175421.012598:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175455.848993:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175455.849843:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175455.850775:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175510.524156:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175510.526602:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175513.663402:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175524.633328:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175524.634621:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175612.759876:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175612.762247:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175615.915656:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175615.918023:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175726.165103:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175726.167418:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175729.747278:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175729.749603:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175809.421357:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175809.423725:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175833.175149:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175834.028381:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175923.726453:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175923.728785:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175926.332971:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/175926.335230:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180016.861621:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180016.863926:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180019.516128:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180019.518503:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180123.284746:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180123.287137:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180125.790306:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180125.792590:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180224.771225:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180224.773620:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180228.315789:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180228.318056:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180309.431270:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180309.433661:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180321.335673:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180321.337936:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180324.050126:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180324.052562:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180342.033260:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180342.035592:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180422.923192:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180422.925548:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180425.625943:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180425.628147:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180519.247597:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180519.249888:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180522.659974:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180522.662233:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180621.277799:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180621.280017:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180624.329555:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180624.331738:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/180631.004837:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/180631.006819:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/180729.336308:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180729.338625:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180809.441493:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180809.443763:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180817.761730:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180817.764133:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180842.042154:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180842.044410:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180921.451079:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180921.453421:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180924.821130:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/180924.823296:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181029.531081:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181029.533541:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181032.577841:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181032.580105:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181118.556984:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181118.559250:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181121.374347:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181226.953916:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181226.956226:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181230.324809:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181230.327090:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181231.738953:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[90m[main 2026-10-16T16:12:39.685Z][0m update#setState checking for updates
+[91m[main 2026-10-16T16:12:47.698Z][0m #5: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?bg=true&u=none - error undefined net::ERR_TIMED_OUT
+[91m[main 2026-10-16T16:12:47.699Z][0m Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[90m[main 2026-10-16T16:12:47.699Z][0m update#setState idle
+[3157:1016/181309.451020:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181323.077106:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181323.079438:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181325.542072:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181325.544335:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181342.050778:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181342.053025:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181420.534908:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181420.537159:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181424.069271:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181424.071566:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181528.637081:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181528.639373:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181531.918593:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181531.920930:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181615.765003:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181615.767272:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181619.354349:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181619.356747:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181718.481155:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181718.483422:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181721.982609:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181721.984947:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181817.463321:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181817.465685:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181826.138025:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181836.832464:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181836.834814:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181842.059355:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181842.061681:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181923.357357:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181923.359645:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181926.179009:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/181926.181242:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182019.160175:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182029.638753:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182029.641082:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182119.608517:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182130.769823:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182130.772196:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/182159.001142:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/182159.003147:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/182232.413774:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182232.416105:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182334.488534:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182334.490818:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182342.069975:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182422.007460:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182422.009722:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182424.808934:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182424.811190:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182519.255687:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182519.257982:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182522.700158:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182522.702376:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182623.531294:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182623.532514:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182626.688950:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182626.691328:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182735.669841:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182735.672200:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182822.222974:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182822.225334:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182825.441746:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182825.444051:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182825.478893:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182825.481182:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182850.079902:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182850.082179:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182925.088213:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/182925.090521:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183018.117971:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183018.120285:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183021.449860:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183021.452184:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183121.873500:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183218.080801:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183218.083179:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183221.247506:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183221.249796:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183325.488526:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183325.767906:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183325.770253:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183328.499196:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183328.501473:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183350.088454:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183421.770891:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183421.773180:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183425.128829:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183425.131118:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183523.260320:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183523.262686:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183526.636507:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183526.638833:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183634.655541:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183634.657913:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183718.049894:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183718.052199:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1836:1016/183721.013614:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1803:1836:1016/183721.015570:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/183721.394833:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183721.397154:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183819.555393:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+
+(mate-power-manager:1302): GLib-CRITICAL **: 18:38:28.474: Source ID 108 was not found when attempting to remove it
+[3157:1016/183830.557633:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183830.560181:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183833.496469:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183833.497996:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183858.101090:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183858.103622:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183929.199002:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/183929.201566:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184021.116385:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184021.118881:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184024.613201:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184024.615617:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184120.818714:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184131.966985:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184131.969574:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[90m[main 2026-10-16T16:41:56.978Z][0m Extension host with pid 3526 exited with code: 0, signal: unknown.
+[3157:1016/184157.900335:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184157.901981:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184158.497750:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184158.583842:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184158.587737:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184159.582502:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184159.584365:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.354971:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.359254:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.361711:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.363014:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.363158:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.364311:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.365365:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.367134:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.367257:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.369334:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.369441:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.371451:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.371554:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.373850:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.374010:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.374134:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.376201:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.376292:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.378543:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.378626:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.378708:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.380369:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.381404:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.391685:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.392998:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.394908:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.395025:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.396089:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.397394:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.663869:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.664857:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.666109:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.667376:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.669743:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.671116:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.672035:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.673358:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.735254:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184200.737890:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[91m[main 2026-10-16T16:42:06.498Z][0m #6: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?u=none - error undefined net::ERR_TIMED_OUT
+[91m[main 2026-10-16T16:42:06.499Z][0m update#isLatestVersion(): failed to check for updates
+[91m[main 2026-10-16T16:42:06.499Z][0m Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[3157:1016/184206.595806:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184206.597280:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184208.370513:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184208.372721:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184208.373791:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184208.374879:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184208.376048:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184225.197270:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184225.198269:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184225.199743:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184235.908070:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184235.909585:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[1803:1803:1016/184521.851791:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[3157:1016/184521.999411:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184522.000569:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184604.929020:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184604.930159:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184604.931226:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184604.932122:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184608.057914:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184608.059337:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184608.090009:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184608.091418:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184700.745646:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/184700.748115:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/185200.755844:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/185200.758262:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/185206.448426:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/185206.450928:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[7908:7941:1016/185348.713673:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[7908:7941:1016/185348.857734:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7908:7941:1016/185409.490071:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7908:7941:1016/185501.225615:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7908:7941:1016/185654.717760:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[3157:1016/185701.282595:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[7908:7941:1016/185957.125842:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[3157:1016/190210.279590:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190210.281907:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190216.278536:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190216.280849:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3115:1016/190612.190305:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (751.863s) location=Button@ui/views/controls/button/button.cc:669
+[3157:1016/190614.411859:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190614.413417:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190614.640101:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190614.641591:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.614932:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.616383:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.616466:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.617565:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.618437:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.619896:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.620056:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.620966:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.621826:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.622744:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.623681:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.624656:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.635294:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.636459:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.637803:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.637897:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.638986:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190618.639816:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190619.561710:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190619.563155:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190619.566022:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190619.567332:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[7908:7941:1016/190620.713785:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[3157:1016/190626.313134:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190626.314434:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190659.860097:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190659.861035:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190659.861962:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190659.862904:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190703.184756:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190703.186044:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190703.367992:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190703.369422:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190710.312664:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190710.314970:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190716.287882:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190716.290266:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[7908:7941:1016/190912.000441:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/190912.002369:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/190935.148920:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190935.150335:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190938.541666:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190938.544112:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190956.330460:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/190956.331907:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191001.110585:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191001.112108:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[7908:7908:1016/191006.352951:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+
+** (caja:1293): CRITICAL **: 19:10:16.200: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:10:16.200: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:10:16.200: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 19:10:18.041: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:10:18.041: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:10:18.041: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 19:10:19.060: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:10:19.060: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:10:19.060: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 19:10:19.233: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:10:19.233: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:10:19.233: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 19:10:25.743: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:10:25.743: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:10:25.743: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1293): CRITICAL **: 19:10:26.875: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:10:26.875: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:10:26.875: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[3157:1016/191028.735199:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191028.736578:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191031.325038:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191031.327388:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[7908:7908:1016/191032.849141:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191034.400379:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191034.400404:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191034.452595:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191034.452771:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191034.610052:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191034.878754:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191035.206456:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[3157:1016/191217.275909:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+
+** (caja:1293): CRITICAL **: 19:12:17.761: caja_file_unref: assertion 'CAJA_IS_FILE (file)' failed
+[90m[main 2026-10-16T17:12:39.689Z][0m update#setState checking for updates
+[3157:1016/191239.695292:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191239.696655:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[91m[main 2026-10-16T17:12:39.697Z][0m #7: https://update.code.visualstudio.com/api/update/linux-x64/stable/2a59476c9bfcb90b3ddc372c36762471b7dfad1c?bg=true&u=none - error undefined net::ERR_PROXY_CONNECTION_FAILED
+[91m[main 2026-10-16T17:12:39.697Z][0m Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:140423)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[90m[main 2026-10-16T17:12:39.697Z][0m update#setState idle
+[7908:7908:1016/191313.805893:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191313.805922:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191313.855781:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191313.855927:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191313.917067:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191314.077026:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191315.065802:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191315.223205:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191315.365716:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[3157:1016/191358.110436:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+
+(mate-terminal:8438): GLib-GIO-WARNING **: 19:14:39.094: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0:expected value
+
+(mate-terminal:8438): GLib-GIO-WARNING **: 19:14:39.094: Using untranslated default instead.
+
+** (mate-terminal:8438): CRITICAL **: 19:14:41.985: terminal_window_remove_screen: assertion 'gtk_widget_get_toplevel (GTK_WIDGET (screen)) == GTK_WIDGET (window)' failed
+Se está abriendo en una sesión de navegador existente.
+[8482:8482:0100/000000.709208:ERROR:content/zygote/zygote_linux.cc:662] write: Tubería rota (32)
+[1:1:0100/000000.714189:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Tubería rota (32)
+[3157:1016/191458.138404:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191458.139717:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+Fontconfig error: Cannot load default config file: File not found
+[3157:1016/191500.902351:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191500.904850:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191720.279767:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191720.282505:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191726.278848:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3115:1016/191728.253310:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (185.487s) location=Button@ui/views/controls/button/button.cc:669
+[7908:7908:1016/191809.372292:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191809.372316:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191809.429842:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191809.430386:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191809.535958:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191809.915084:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[7908:7908:1016/191811.074716:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[3157:1016/191827.018208:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/191827.020746:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/192220.311355:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/192220.313797:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/192234.283120:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/192234.285555:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[7908:7941:1016/192435.012007:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/192435.014052:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[3157:1016/192720.321567:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/192720.323995:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/192734.296822:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193028.879705:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193029.131652:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193029.132656:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193029.135357:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193115.869268:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193115.920814:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193115.922034:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193118.894357:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193118.895646:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193123.873572:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[3157:1016/193123.874761:ERROR:net/socket/ssl_client_socket_impl.cc:963] handshake failed; returned -1, SSL error code 1, net_error -107
+[90m[main 2026-10-16T17:31:30.933Z][0m Extension host with pid 7672 exited with code: 0, signal: unknown.
+
+(mate-terminal:8830): GLib-GIO-WARNING **: 19:31:37.632: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0:expected value
+
+(mate-terminal:8830): GLib-GIO-WARNING **: 19:31:37.632: Using untranslated default instead.
+
+(polkit-mate-authentication-agent-1:1294): Gtk-WARNING **: 19:33:10.567: Failed to set text '<big><b>Authentication is needed to run `/bin/bash -c echo SUDOPROMPT; "/home/a ... pkg -i packages-microsoft-prod.deb" &' as the super user</b></big>' from markup due to error parsing markup: Error en la línea 1: La entidad no termina con un punto y coma; probablemente utilizó el carácter "&" sin la intención de indicar una entidad, escape el signo "&" como &amp;
+
+(polkit-mate-authentication-agent-1:1294): Gtk-WARNING **: 19:33:10.567: Failed to set text '<big><b>Authentication is needed to run `/bin/bash -c echo SUDOPROMPT; "/home/a ... pkg -i packages-microsoft-prod.deb" &' as the super user</b></big>' from markup due to error parsing markup: Error en la línea 1: La entidad no termina con un punto y coma; probablemente utilizó el carácter "&" sin la intención de indicar una entidad, escape el signo "&" como &amp;
+
+(polkit-mate-authentication-agent-1:1294): Gtk-WARNING **: 19:33:10.588: Failed to set text '<big><b>Authentication is needed to run `/bin/bash -c echo SUDOPROMPT; "/home/a ... pkg -i packages-microsoft-prod.deb" &' as the super user</b></big>' from markup due to error parsing markup: Error en la línea 1: La entidad no termina con un punto y coma; probablemente utilizó el carácter "&" sin la intención de indicar una entidad, escape el signo "&" como &amp;
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1000007 (Autenticar)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(mate-terminal:12801): GLib-GIO-WARNING **: 19:37:59.566: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0:expected value
+
+(mate-terminal:12801): GLib-GIO-WARNING **: 19:37:59.566: Using untranslated default instead.
+[7908:7941:1016/193957.004428:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/193957.006306:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+
+** (caja:1293): CRITICAL **: 19:41:02.334: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1293): GLib-GIO-CRITICAL **: 19:41:02.334: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1293): GLib-GObject-CRITICAL **: 19:41:02.334: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[7908:7941:1016/195525.008080:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/195525.010159:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[7908:7941:1016/201052.000172:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/201052.001514:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[7908:7941:1016/202613.008333:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/202613.010133:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+Warning: failed to launch javaldx - java may not function correctly
+[7908:7941:1016/204142.004524:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/204142.006445:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[7908:7908:1016/205241.906813:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[7908:7908:1016/205241.906996:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[7908:7941:1016/205702.000857:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[7908:7941:1016/205702.004129:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+Advertencia del gestor de ventanas: CurrentTime used to choose focus window; focus window may not be correct.
+Advertencia del gestor de ventanas: Got a request to focus 0xe00006 (Escritorio) with a timestamp of 0.  This shouldn't happen!

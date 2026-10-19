@@ -1,0 +1,1958 @@
+Xsession: X session started for alumno at lun 19 oct 2026 10:29:53 CEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alumno/.Xauthority
+localuser:alumno being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=alumno
+dbus-update-activation-environment: setting no_proxy=localhost;127.0.0.1;localaddress;iesmajuelo.es
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/alumno
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting https_proxy=https://192.168.8.200:3128/
+dbus-update-activation-environment: setting LOGNAME=alumno
+dbus-update-activation-environment: setting http_proxy=http://192.168.8.200:3128/
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting ftp_proxy=ftp://192.168.8.200:3128/
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/alumno/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/alumno
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/alumno
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share/:/usr/share/
+x-session-manager[1179]: WARNING: Unable to find provider '' of required component 'dock'
+discover_other_daemon: 1GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Advertencia del gestor de ventanas: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+
+** (mate-settings-daemon:1246): WARNING **: 10:29:54.931: Could not open RFKILL control device, please verify your installation
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+[ 19/10/26 10:29:55.019 sanitize_options ERROR ] Backend not specified. You must choose one explicitly. Valid ones are: 
+[ 19/10/26 10:29:55.019 sanitize_options ERROR ] 	dummy
+[ 19/10/26 10:29:55.019 sanitize_options ERROR ] 	xrender
+[ 19/10/26 10:29:55.019 sanitize_options ERROR ] 	egl
+[ 19/10/26 10:29:55.019 sanitize_options ERROR ] 	glx
+[ 19/10/26 10:29:55.019 session_init FATAL ERROR ] Failed to get configuration, usually mean you have specified invalid options.
+[ 19/10/26 10:29:55.019 main FATAL ERROR ] Failed to create new session.
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+
+(caja:1294): Gtk-WARNING **: 10:29:55.031: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+(mate-power-manager:1302): PowerManager-WARNING **: 10:29:55.102: Failed to get session for pid 1302: The name org.freedesktop.ConsoleKit was not provided by any .service files
+
+(mate-power-manager:1302): PowerManager-WARNING **: 10:29:55.184: could not map keysym 1008ffa8 to keycode
+
+(mate-volume-control-status-icon:1296): Gtk-WARNING **: 10:29:55.312: Negative content width -5 (allocation 1, extents 3x3) while allocating gadget (node image, owner GtkImage)
+
+(mate-volume-control-status-icon:1296): Gtk-WARNING **: 10:29:55.312: Negative content height -5 (allocation 1, extents 3x3) while allocating gadget (node image, owner GtkImage)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[1484:1517:1019/103052.548055:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1517:1019/103052.628878:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[1484:1517:1019/103052.632232:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[1484:1517:1019/103052.632611:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[1484:1484:1019/103053.524478:ERROR:content/public/browser/web_contents_delegate.cc:319] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1484:1484:1019/103053.524545:ERROR:content/public/browser/web_contents_delegate.cc:319] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1484:1484:1019/103053.547966:ERROR:content/public/browser/web_contents_delegate.cc:319] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1484:1484:1019/103053.548035:ERROR:content/public/browser/web_contents_delegate.cc:319] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1484:1484:1019/103107.480350:ERROR:content/public/browser/web_contents_delegate.cc:319] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1484:1484:1019/103107.480397:ERROR:content/public/browser/web_contents_delegate.cc:319] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1484:1517:1019/103120.418978:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1530:1538:1019/103126.318842:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -113
+[1530:1538:1019/103126.321966:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -113
+[1484:1517:1019/103209.705998:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1484:1517:1019/103359.520976:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:19.184: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.504: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:20.505: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.273: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.273: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.273: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.273: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.273: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.273: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.496: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.496: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.496: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.496: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.496: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.496: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.497: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.497: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.497: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.497: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.497: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.497: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 10:34:24.506: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.506: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:34:24.506: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.512: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:24.513: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.067: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.067: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.067: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.068: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.068: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.068: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.158: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.158: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.158: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.158: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.158: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.158: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 10:34:26.163: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.163: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:34:26.163: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.168: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.168: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.168: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.168: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.168: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.168: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.169: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:26.170: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.026: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.026: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.026: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.026: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.026: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.026: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.135: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.135: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.135: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.135: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.136: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:34:28.136: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: package com.apple.laf not in java.desktop
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: package com.apple.laf not in java.desktop
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: package com.apple.laf not in java.desktop
+
+(mate-terminal:4473): GLib-GIO-WARNING **: 10:36:15.118: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0:expected value
+
+(mate-terminal:4473): GLib-GIO-WARNING **: 10:36:15.118: Using untranslated default instead.
+
+(mate-terminal:4488): GLib-GIO-WARNING **: 10:36:22.257: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0:expected value
+
+(mate-terminal:4488): GLib-GIO-WARNING **: 10:36:22.257: Using untranslated default instead.
+
+** (caja:1294): CRITICAL **: 10:37:22.737: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:37:22.737: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:37:22.737: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[1484:1517:1019/103745.295963:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[1484:1484:1019/103813.188219:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[1484:1484:1019/103813.188408:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+
+** (caja:1294): CRITICAL **: 10:41:03.984: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:03.984: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:03.984: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:04.799: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:04.799: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:04.799: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:41.289: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:41.289: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:41.289: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:42.342: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:42.342: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:42.342: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:44.383: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:44.383: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:44.383: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:45.158: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:45.158: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:45.158: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:46.479: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:46.479: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:46.484: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:51.676: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:51.681: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:51.681: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:53.219: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:53.219: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:53.219: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:55.664: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:55.664: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:55.664: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:57.179: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:57.179: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:57.179: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:41:57.937: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:41:57.937: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:41:57.937: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:42:03.345: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:42:03.345: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:42:03.345: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:42:04.526: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:42:04.526: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:42:04.526: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:42:05.239: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:42:05.239: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:42:05.239: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:43:13.503: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:43:13.503: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:43:13.503: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:44:31.697: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:44:31.697: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:44:31.697: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:44:32.731: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:44:32.731: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:44:32.731: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:44:43.496: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:44:43.496: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:44:43.496: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[1484:1517:1019/104453.112050:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+** (caja:1294): CRITICAL **: 10:44:58.712: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:44:58.712: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:44:58.712: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:28.656: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:28.656: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:28.656: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:30.168: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:30.168: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:30.168: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:31.831: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:31.831: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:31.831: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:32.367: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:32.367: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:32.367: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:32.983: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:32.983: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:32.983: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:34.231: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:34.231: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:34.231: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:35.104: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:35.104: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:35.104: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:52.505: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:52.505: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:52.505: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:53.031: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:53.031: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:53.031: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:45:53.887: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:45:53.887: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:45:53.887: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 10:46:09.286: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 10:46:09.287: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 10:46:09.287: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[1484:1517:1019/104619.007098:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/104619.008518:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1517:1019/111640.002952:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/111640.004765:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1517:1019/113205.005559:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/113205.007429:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+
+(mate-power-manager:1302): GLib-CRITICAL **: 11:35:21.394: Source ID 61 was not found when attempting to remove it
+[1484:1484:1019/113843.249245:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/113843.249292:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/113843.312205:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/113843.312354:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/113843.389336:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/113843.978715:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+
+** (caja:1294): CRITICAL **: 11:42:27.835: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 11:42:27.835: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 11:42:27.835: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 11:42:29.044: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 11:42:29.044: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 11:42:29.044: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (caja:1294): CRITICAL **: 11:42:30.490: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 11:42:30.490: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 11:42:30.490: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[1484:1517:1019/114734.011694:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/114734.013655:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1517:1019/120302.000543:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/120302.002583:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.902: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.902: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.902: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.903: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.903: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.903: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.903: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:06.903: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.049: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.050: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:07.051: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.611: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.612: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.612: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.612: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.612: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.612: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.728: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.728: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.728: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.728: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.728: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.728: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.729: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.729: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.729: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.729: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.729: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.729: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:08.731: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.731: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:08.731: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: GFileInfo created without standard::edit-name
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: file ../../../gio/gfileinfo.c: line 1757 (g_file_info_get_edit_name): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.734: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.738: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:08.739: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.659: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.659: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.660: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.660: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.660: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.660: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.796: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.796: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.796: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.796: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.796: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.796: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:09.798: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.798: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:09.798: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.802: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:09.803: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.029: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.029: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.029: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.029: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.029: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.029: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.153: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.153: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.153: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.154: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.154: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.154: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:12.161: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.161: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:12.161: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.164: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.165: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.166: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:12.167: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.155: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.155: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.156: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.156: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.156: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.156: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.157: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.157: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.157: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.157: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.157: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.157: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.158: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.159: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.160: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:17.203: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.203: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:17.203: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.206: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.206: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.206: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.206: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.206: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.206: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.405: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.405: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.405: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.405: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.405: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:17.405: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.372: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.372: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.372: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.372: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.372: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.372: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.476: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.476: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.476: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.476: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.476: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.477: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.497: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.497: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.497: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.497: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.497: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.497: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:18.506: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.506: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:18.506: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:18.522: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.083: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.084: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.084: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.084: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.084: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.084: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.188: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.188: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.188: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.188: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.188: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.188: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.201: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.201: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.201: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.201: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.201: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.201: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:20.216: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.216: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:20.216: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.233: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:20.234: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.293: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.294: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.294: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.294: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.295: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.295: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.295: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.295: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:26.300: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.300: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:26.300: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.307: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.307: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.307: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.307: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.307: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.307: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.502: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.502: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.502: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.502: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.502: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:26.502: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.637: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.638: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.639: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.639: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.639: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.639: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.639: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.639: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:27.641: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.641: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:27.641: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.648: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.648: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.648: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.648: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.648: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.648: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.843: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.843: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.843: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.843: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.843: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:27.843: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.095: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.096: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.096: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.096: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.096: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.096: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.197: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.197: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.197: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.197: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.197: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:57.198: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:16:58.896: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:16:58.896: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:16:58.896: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.766: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.766: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.767: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.767: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.767: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.767: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.868: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.868: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.868: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.868: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.868: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:00.868: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.260: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.260: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.260: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.260: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.260: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.260: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.362: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.362: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.362: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.362: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.362: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:03.362: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.041: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.042: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.042: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.042: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.042: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.042: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.147: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.147: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.147: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.147: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.147: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:09.147: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+** (caja:1294): CRITICAL **: 12:17:12.144: caja_bookmark_get_location: assertion 'CAJA_IS_BOOKMARK (bookmark)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:12.144: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(caja:1294): GLib-GObject-CRITICAL **: 12:17:12.144: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.213: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.213: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.213: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.213: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.213: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.214: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.317: GFileInfo created without standard::is-symlink
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.318: file ../../../gio/gfileinfo.c: line 1691 (g_file_info_get_is_symlink): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.318: GFileInfo created without standard::is-hidden
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.318: file ../../../gio/gfileinfo.c: line 1647 (g_file_info_get_is_hidden): should not be reached
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.318: GFileInfo created without standard::is-backup
+
+(caja:1294): GLib-GIO-CRITICAL **: 12:17:19.318: file ../../../gio/gfileinfo.c: line 1669 (g_file_info_get_is_backup): should not be reached
+[1484:1517:1019/121824.012568:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/121824.013725:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1517:1019/123351.005151:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/123351.007315:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1517:1019/124912.008694:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[1484:1517:1019/124912.009702:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -111
+[1484:1484:1019/125044.925585:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/125044.925613:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/125044.979394:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/125044.979528:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/125045.043602:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/125045.194386:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1484:1484:1019/125047.161198:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+
+(mate-terminal:5793): GLib-GIO-WARNING **: 12:58:31.956: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0:expected value
+
+(mate-terminal:5793): GLib-GIO-WARNING **: 12:58:31.956: Using untranslated default instead.

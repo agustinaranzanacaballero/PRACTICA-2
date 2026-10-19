@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "262.9437.185.2621.16467767",
+    "buildDate" : "2026-09-29T07:54:00Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2026-10-07T19:13:28.33280729Z",
+    "os" : "Linux 6.12.107+deb13-amd64",
+    "runtime" : "JetBrains s.r.o. 25.0.3 25.0.3+-15898627-b508.16"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "Prueba 3",
+    "times" : {
+      "scanningReason" : "Changes from WorkspaceFileIndex (1 iterators)",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 3,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 41092758,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 755461,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 39928611,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 50064,
+      "dumbModeStart" : "2026-10-07T19:13:28.304168479Z",
+      "dumbWallTimeWithPauses" : 27652455,
+      "dumbWallTimeWithoutPauses" : 27652455,
+      "updatingStart" : "2026-10-07T19:13:28.235977319Z",
+      "updatingEnd" : "2026-10-07T19:13:28.331820934Z",
+      "totalWallTimeWithPauses" : 95843615,
+      "wallTimeOnPause" : 10464637,
+      "isCancelled" : false,
+      "totalWallTimeWithoutPauses" : 85378978
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 38,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 27
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'Prueba 3' (Prueba3)",
+      "numberOfScannedFiles" : 38,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 27,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 19290054,
+      "totalOneThreadTimeWithPauses" : 41092758,
+      "iterationAndScannersApplicationTime" : 755461,
+      "filesCheckTime" : 39928611,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 11216145,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 50064,
+      "roots" : [ ]
+    } ]
+  }
+}

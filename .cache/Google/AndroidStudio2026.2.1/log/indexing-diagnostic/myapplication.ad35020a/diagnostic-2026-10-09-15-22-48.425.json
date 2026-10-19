@@ -1,0 +1,109 @@
+{
+  "appInfo" : {
+    "build" : "262.9437.185.2621.16467767",
+    "buildDate" : "2026-09-29T07:54:00Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2026-10-09T13:22:48.426374796Z",
+    "os" : "Linux 6.12.111+deb13-amd64",
+    "runtime" : "JetBrains s.r.o. 25.0.3 25.0.3+-15898627-b508.16"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "My Application",
+    "times" : {
+      "scanningReason" : "Changes from WorkspaceFileIndex (4 iterators)",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 3,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 3587865232,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 336552872,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 3239450279,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2026-10-09T13:22:47.016950704Z",
+      "updatingEnd" : "2026-10-09T13:22:48.425074317Z",
+      "totalWallTimeWithPauses" : 1408123613,
+      "wallTimeOnPause" : 997075,
+      "isCancelled" : false,
+      "totalWallTimeWithoutPauses" : 1407126538
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 4,
+      "numberOfScannedFiles" : 42616,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Android SDK Android API 37.0, extension level 22 Platform /home/alumno/Android/Sdk (android-37.0)",
+      "numberOfScannedFiles" : 16422,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1135258620,
+      "totalOneThreadTimeWithPauses" : 1391529701,
+      "iterationAndScannersApplicationTime" : 122350300,
+      "filesCheckTime" : 1269000942,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 8363805,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Android SDK Android API 37.0, extension level 22 Platform /home/alumno/Android/Sdk (res)",
+      "numberOfScannedFiles" : 11199,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 864264799,
+      "totalOneThreadTimeWithPauses" : 1169866017,
+      "iterationAndScannersApplicationTime" : 108073325,
+      "filesCheckTime" : 1058212896,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 12567007,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Android SDK Android API 37.0, extension level 22 Platform /home/alumno/Android/Sdk (android.jar)",
+      "numberOfScannedFiles" : 14830,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 749176148,
+      "totalOneThreadTimeWithPauses" : 907298029,
+      "iterationAndScannersApplicationTime" : 104701892,
+      "filesCheckTime" : 800161081,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 10284292,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Android SDK Android API 37.0, extension level 22 Platform /home/alumno/Android/Sdk (annotations.zip)",
+      "numberOfScannedFiles" : 165,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 72006294,
+      "totalOneThreadTimeWithPauses" : 119171485,
+      "iterationAndScannersApplicationTime" : 1427355,
+      "filesCheckTime" : 112075360,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 403832,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

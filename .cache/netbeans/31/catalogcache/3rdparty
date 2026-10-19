@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.8//EN" "https://netbeans.apache.org/dtds/autoupdate-catalog-2_8.dtd">
+<module_updates timestamp="26/55/12/05/08/2026">
+
+
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.linux.aarch64" distribution="org-netbeans-libs-javafx-linux-aarch64.nbm" downloadsize="49323" homepage="http://www.netbeans.org/" license="21A7B1AA" moduleauthor="" needsrestart="false" releasedate="2026/08/05">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.libs.javafx.linux.aarch64" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="31-f8ac37e0f2434a7f000fbe3360f1a92aa3ea67bc" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Module-Dependencies="org.netbeans.libs.javafx &gt; 2.10, org.netbeans.libs.jsobject &gt; 25.0, org.openide.modules &gt; 7.40" OpenIDE-Module-Name="JavaFX Implementation for Linux (aarch64)" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.os.Linux, org.openide.modules.arch.aarch64, org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="23.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="5301e9e3d2248da3a2d1cb2e0ea80cc7d04bfa46dee083a57fcdb5fda5d504aaaa39d024f6a8facf9486ba72747763827af79b87a19310950f9eb4284ae87c82"/>
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.linux" distribution="org-netbeans-libs-javafx-linux.nbm" downloadsize="49105" homepage="http://www.netbeans.org/" license="21A7B1AA" moduleauthor="" needsrestart="false" releasedate="2026/08/05">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.libs.javafx.linux" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="31-f8ac37e0f2434a7f000fbe3360f1a92aa3ea67bc" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Module-Dependencies="org.netbeans.libs.javafx &gt; 2.10, org.netbeans.libs.jsobject &gt; 25.0, org.openide.modules &gt; 7.40" OpenIDE-Module-Name="JavaFX Implementation for Linux (amd64)" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.os.Linux, org.openide.modules.arch.amd64, org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="23.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="22fee17e1954848684ece66c85b720e6abfb6e182771af088e6c1949ba2a084b5773a07a8a9d4e6c6b169724a79c629f0431a99216d654138192f49eb815ebc7"/>
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.macosx.aarch64" distribution="org-netbeans-libs-javafx-macosx-aarch64.nbm" downloadsize="49298" homepage="http://www.netbeans.org/" license="21A7B1AA" moduleauthor="" needsrestart="false" releasedate="2026/08/05">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.libs.javafx.macosx.aarch64" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="31-f8ac37e0f2434a7f000fbe3360f1a92aa3ea67bc" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Module-Dependencies="org.netbeans.libs.javafx &gt; 2.10, org.netbeans.libs.jsobject &gt; 25.0, org.openide.modules &gt; 7.40" OpenIDE-Module-Name="JavaFX Implementation for mac OS (aarch64)" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.os.MacOSX, org.openide.modules.arch.aarch64, org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="23.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="5a3b0b5ee3d43225ddba5c98529fea2039edf420af448f7affed7862f810da8ace2c75894dccd2c01e949b035c92a8de108df70db1d00495583e1f53e5b10282"/>
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.macosx" distribution="org-netbeans-libs-javafx-macosx.nbm" downloadsize="49085" homepage="http://www.netbeans.org/" license="21A7B1AA" moduleauthor="" needsrestart="false" releasedate="2026/08/05">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.libs.javafx.macosx" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="31-f8ac37e0f2434a7f000fbe3360f1a92aa3ea67bc" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Module-Dependencies="org.netbeans.libs.javafx &gt; 2.10, org.netbeans.libs.jsobject &gt; 25.0, org.openide.modules &gt; 7.40" OpenIDE-Module-Name="JavaFX Implementation for mac OS (amd64)" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.os.MacOSX, org.openide.modules.arch.x86_64, org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="23.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="11f0c5df0b4c7d2874d1983d42c32306738966de85e15609fa3577b8eb2e52a006a82cb654abd173eb22e50bd438f0fe250810a4da5f3f0842587b48c19fc344"/>
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.win" distribution="org-netbeans-libs-javafx-win.nbm" downloadsize="49057" homepage="http://www.netbeans.org/" license="21A7B1AA" moduleauthor="" needsrestart="false" releasedate="2026/08/05">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.libs.javafx.win" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="31-f8ac37e0f2434a7f000fbe3360f1a92aa3ea67bc" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Module-Dependencies="org.netbeans.libs.javafx &gt; 2.10, org.netbeans.libs.jsobject &gt; 25.0, org.openide.modules &gt; 7.40" OpenIDE-Module-Name="JavaFX Implementation for Windows (amd64)" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.os.Windows, org.openide.modules.arch.amd64, org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="23.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="d8db7faed580d556106b2944ef3143ee3c38274192445cf33b87a4e5f705e5d6bc9474dc9edd99064d6bfe38a8f64557798dd84b488cf52f01e2bec9ab5b8fe5"/>
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.jsobject" distribution="org-netbeans-libs-jsobject.nbm" downloadsize="46729" homepage="http://www.netbeans.org/" license="21A7B1AA" moduleauthor="" needsrestart="false" releasedate="2026/08/05">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.libs.jsobject" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="31-f8ac37e0f2434a7f000fbe3360f1a92aa3ea67bc" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Name="JDK JSObject" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="25.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="07c7273a20713fad938509b33a7be69d9202fa0d8c48029a686ac94d788aab32d373a4bbd4dca8e996e20a5ea2ae9f34d157621850324d5a8456e358d3155061"/>
+</module>
+
+<license name="21A7B1AA" url="licenses/21A7B1AA.license"/>
+</module_updates>
+
